@@ -21,4 +21,4 @@ Kuzu, B. (2025). *Energy Conversion from Solar Sources* (Project report).
 
 ## License
 Text/figures: CC BY 4.0.  
-Code (if added): MIT.
+Code: MIT.
